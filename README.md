@@ -1,7 +1,7 @@
 ## Facial-Landmarks-Analysis
 This project involves analyzing 3D facial landmarks using three classic machine learning algorithms: Random Forest, Support Vector Machine (SVM), and Decision Tree. The goal is to classify facial landmarks and evaluate the performance of these classifiers. A report with experimental results and discussions will be submitted.
 
-#Instructions
+# Instructions
 Follow the instructions below to complete the project:
 
 Programming Language: Use Python for implementing the project. You can import any necessary modules. Create a Python file named Project1.py, and feel free to split your program into multiple files if required.
